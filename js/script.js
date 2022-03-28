@@ -1,4 +1,4 @@
-// Created by: Aiden McLeod
+// Created by: Evan cagiannos
 // Created on: Mar 2022
 // This file contains the JS functions for index.html
 
